@@ -1,16 +1,40 @@
+## Ola! Eu sou a Carlos Henrique dos Santos 
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Carreira desenvolvida na área de Tecnologia da Informação, com ampla experiência em 
+projetos de implantação e manutenção de Infraestrutura, suporte e implementação de melhorias
+desenvolvendo trajetória em empresas.
+<p>Recentemente resolvi me aventurar no mundo da programação, cursando front- back - full stack , incluindo alguns de seus frameworks e bibliotecas mais conhecidos.</p>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 <strong>Linguagens:</strong> 
+  <div style="display: inline_block"><br>  
+ <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColo"> 
+ <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor">
+ <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"> 
+ <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+ <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/php-original.svg?size=148&color=currentColor">
+ <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor">
+ <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/mysql-original.svg?size=148&color=currentColor">
+    <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/mongodb-original.svg?size=148&color=currentColor">
+</div>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 <strong>Ferramentas:</strong>
+ <div style="display: inline_block"><br>  
+ <img align="center" alt="Rafa-React" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+  <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor">
+ <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/phpstorm-original.svg?size=128&color=currentColor"> 
+ <img align="center" alt="Rafa-React" height="40" src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=currentColor">
+ <img align="center" alt="Rafa-React" height="40" src="https://icongr.am/devicon/gitlab-original-wordmark.svg?size=148&color=currentColor">
+ <img align="center" alt="Rafa-React" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"> 
+   <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/trello-plain.svg?size=148&color=currentColor">
+   <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor">
+</div>
 </p>
 
 <p align="left">
@@ -36,7 +60,7 @@
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Ola! Eu sou a Carlos Henrique dos Santos 
+
 
  <div>
   <a href="https://github.com/carloshsanto">
