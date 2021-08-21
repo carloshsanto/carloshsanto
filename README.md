@@ -12,14 +12,14 @@ desenvolvendo trajetória em empresas.
 <p align="left">
   🦄 <strong>Linguagens:</strong> 
   <div style="display: inline_block"><br>  
- <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColo"> 
- <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor">
- <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"> 
- <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
- <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/php-original.svg?size=148&color=currentColor">
- <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor">
- <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/mysql-original.svg?size=148&color=currentColor">
-    <img align="center" alt="Rafa-React" height="40" width="60" src="https://icongr.am/devicon/mongodb-original.svg?size=148&color=currentColor">
+ <img align="center" alt="Carlos-html5" height="40" width="60" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColo"> 
+ <img align="center" alt="Carlos-css3" height="40" width="60" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor">
+ <img align="center" alt="Carlos-javascript" height="40" width="60" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"> 
+ <img align="center" alt="Carlos-csharp" height="40" width="60" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+ <img align="center" alt="Carlos-php" height="40" width="60" src="https://icongr.am/devicon/php-original.svg?size=148&color=currentColor">
+ <img align="center" alt="Carlos-dot-net" height="40" width="60" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor">
+ <img align="center" alt="Carlos-mysql" height="40" width="60" src="https://icongr.am/devicon/mysql-original.svg?size=148&color=currentColor">
+ <img align="center" alt="Carlos-mongodb" height="40" width="60" src="https://icongr.am/devicon/mongodb-original.svg?size=148&color=currentColor">
 </div>
 </p>
 
@@ -42,14 +42,14 @@ desenvolvendo trajetória em empresas.
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:carloshenriquesantos10@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=carloshenriquesantos10@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/carlos-henrique-santos-86303623">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-henrique-santos-86303623" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=5534991768080"/></a>  
+  
+  <a href="https://wa.me/5534991768080?text=Olá!%20:)%20Em%20que%20podemos%20te%20ajudar?">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=5534991768080"/></a>
 </p>  
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
